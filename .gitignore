@@ -1,3 +1,4 @@
 env/
 trash-data/
 outputs/
+*__pycache__*
